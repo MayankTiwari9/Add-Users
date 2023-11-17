@@ -1,0 +1,27 @@
+.user-list {
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    margin-top: 4%;
+  }
+
+  ul{
+    list-style-type: none;
+    padding: 0;
+  }
+
+.user-list-item{
+    border: 1px solid black;
+    height: 2rem;
+    /* justify-content: center; */
+    align-items: center;
+    display: flex;
+    width: 96%;
+    list-style-type: none;
+    padding: 0%;
+    margin-left: 2%;
+    padding: 0.5%;
+}
